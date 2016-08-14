@@ -10,4 +10,4 @@ queck is a research literature gizmo, under construction
 
 ## status
 
-Still in 'heavy development' as they say, though signs of life are starting to appear on the development [Wiki](https://github.com/lmmx/queck/wiki)...
+Still in 'heavy development' as they say, though signs of life are starting to break through... see the [Wiki](https://github.com/lmmx/queck/wiki)!
